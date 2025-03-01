@@ -14,7 +14,7 @@ A Python tool for scraping historical stock data from the Dhaka Stock Exchange (
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/dse-scraper.git
+git clone https://github.com/1am2syman/dse-scraper.git
 cd dse-scraper
 ```
 
